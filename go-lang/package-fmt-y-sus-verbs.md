@@ -65,3 +65,5 @@ Para poder tener una mejor noción del paquete fmt por favor visitar el siguient
 ```
 
 Para más información por favor visitar [https://pkg.go.dev/fmt#example-Printf](https://pkg.go.dev/fmt#example-Printf)
+
+IMPORTANTE :v sirve para todos los verbs sin importar su tipo de dato.
