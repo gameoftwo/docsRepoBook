@@ -44,6 +44,13 @@ func main() {
 	
 	// %b -> base 2 ip4
 	fmt.Printf("%08b \n", 55)
+	
+	// hacer calculo decima recortando a 2 decimales
+	
+	x := 3.4
+	y := 5.2
+	
+	printf("x * y = %f\n", x * y)
 }
 
 ```
