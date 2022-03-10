@@ -9,6 +9,8 @@ description: >-
 
 Para poder tener una mejor noción del paquete fmt por favor visitar el siguiente enlace [https://pkg.go.dev/fmt#Printf](https://pkg.go.dev/fmt#Printf)
 
+SOLO FUNCIONA LOS VERBS CON <mark style="color:blue;background-color:yellow;">**PRINTF**</mark>
+
 ## General
 
 ```
