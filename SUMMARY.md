@@ -27,3 +27,4 @@
 * [Go Operators](go-lang/go-operators.md)
 * [Converting Types](go-lang/converting-types/README.md)
   * [Code definying types](go-lang/converting-types/code-definying-types.md)
+  * [Aliases](go-lang/converting-types/aliases.md)
