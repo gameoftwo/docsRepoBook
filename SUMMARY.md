@@ -22,3 +22,4 @@
 * [Package fmt y sus verbs](go-lang/package-fmt-y-sus-verbs.md)
 * [Package fmt verbs example](go-lang/package-fmt-verbs-example.md)
 * [IOTA](go-lang/iota.md)
+* [Go Data Type](go-lang/go-data-type.md)
