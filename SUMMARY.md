@@ -25,4 +25,5 @@
 * [IOTA](go-lang/iota.md)
 * [Go Data Type](go-lang/go-data-type.md)
 * [Go Operators](go-lang/go-operators.md)
-* [Converting Types](go-lang/converting-types.md)
+* [Converting Types](go-lang/converting-types/README.md)
+  * [Code definying types](go-lang/converting-types/code-definying-types.md)
