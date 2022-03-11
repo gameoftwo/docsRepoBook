@@ -28,3 +28,5 @@
 * [Converting Types](go-lang/converting-types/README.md)
   * [Code definying types](go-lang/converting-types/code-definying-types.md)
   * [Aliases](go-lang/converting-types/aliases.md)
+* [Unit 6 - Go](go-lang/unit-6-go/README.md)
+  * [Conditionals](go-lang/unit-6-go/conditionals.md)
