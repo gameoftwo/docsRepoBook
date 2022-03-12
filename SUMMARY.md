@@ -30,3 +30,4 @@
   * [Aliases](go-lang/converting-types/aliases.md)
 * [Unit 6 - Go](go-lang/unit-6-go/README.md)
   * [Conditionals](go-lang/unit-6-go/conditionals.md)
+  * [os.Args](go-lang/unit-6-go/os.args.md)
