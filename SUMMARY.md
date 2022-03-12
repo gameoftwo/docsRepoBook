@@ -31,3 +31,5 @@
 * [Unit 6 - Go](go-lang/unit-6-go/README.md)
   * [Conditionals](go-lang/unit-6-go/conditionals.md)
   * [os.Args](go-lang/unit-6-go/os.args.md)
+  * [Simple if](go-lang/unit-6-go/simple-if.md)
+  * [For Loops](go-lang/unit-6-go/for-loops.md)
