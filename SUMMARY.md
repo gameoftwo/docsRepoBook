@@ -36,3 +36,4 @@
   * [For Break and Continue](go-lang/unit-6-go/for-break-and-continue.md)
   * [Labels and Goto Statements](go-lang/unit-6-go/labels-and-goto-statements.md)
   * [Switch Statement](go-lang/unit-6-go/switch-statement.md)
+  * [Scopes](go-lang/unit-6-go/scopes.md)
