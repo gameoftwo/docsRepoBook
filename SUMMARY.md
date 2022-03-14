@@ -39,3 +39,4 @@
   * [Scopes](go-lang/unit-6-go/scopes.md)
   * [Arrays and Operations](go-lang/unit-6-go/arrays-and-operations.md)
   * [Arrays with keyed element](go-lang/unit-6-go/arrays-with-keyed-element.md)
+  * [Slices Basics](go-lang/unit-6-go/slices-basics.md)
