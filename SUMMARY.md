@@ -42,3 +42,4 @@
   * [Slices Basics](go-lang/unit-6-go/slices-basics.md)
   * [Slice Expression](go-lang/unit-6-go/slice-expression.md)
   * [Slices Backing Array](go-lang/unit-6-go/slices-backing-array.md)
+  * [Appending to Slices](go-lang/unit-6-go/appending-to-slices.md)
