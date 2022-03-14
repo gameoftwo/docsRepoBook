@@ -37,3 +37,4 @@
   * [Labels and Goto Statements](go-lang/unit-6-go/labels-and-goto-statements.md)
   * [Switch Statement](go-lang/unit-6-go/switch-statement.md)
   * [Scopes](go-lang/unit-6-go/scopes.md)
+  * [Arrays and Operations](go-lang/unit-6-go/arrays-and-operations.md)
