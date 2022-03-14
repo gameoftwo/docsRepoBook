@@ -41,3 +41,4 @@
   * [Arrays with keyed element](go-lang/unit-6-go/arrays-with-keyed-element.md)
   * [Slices Basics](go-lang/unit-6-go/slices-basics.md)
   * [Slice Expression](go-lang/unit-6-go/slice-expression.md)
+  * [Slices Backing Array](go-lang/unit-6-go/slices-backing-array.md)
