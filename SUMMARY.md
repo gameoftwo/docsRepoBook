@@ -57,3 +57,4 @@
   * [Structs](go-lang/strings/structs.md)
   * [Anonymous and Embedded Structs](go-lang/strings/anonymous-and-embedded-structs.md)
   * [Function Basics](go-lang/strings/function-basics.md)
+  * [Variadic Function](go-lang/strings/variadic-function.md)
