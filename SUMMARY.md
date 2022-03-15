@@ -53,3 +53,4 @@
   * [Second Writting Method](go-lang/strings/second-writting-method.md)
   * [Reading bytes from files](go-lang/strings/reading-bytes-from-files.md)
   * [Reading files using delimiter](go-lang/strings/reading-files-using-delimiter.md)
+  * [Reading from consoles](go-lang/strings/reading-from-consoles.md)
