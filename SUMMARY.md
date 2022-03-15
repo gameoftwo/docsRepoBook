@@ -59,3 +59,4 @@
   * [Function Basics](go-lang/strings/function-basics.md)
   * [Variadic Function](go-lang/strings/variadic-function.md)
   * [Defer Statement](go-lang/strings/defer-statement.md)
+  * [Anonymous Function](go-lang/strings/anonymous-function.md)
