@@ -55,3 +55,4 @@
   * [Reading files using delimiter](go-lang/strings/reading-files-using-delimiter.md)
   * [Reading from consoles](go-lang/strings/reading-from-consoles.md)
   * [Structs](go-lang/strings/structs.md)
+  * [Anonymous and Embedded Structs](go-lang/strings/anonymous-and-embedded-structs.md)
