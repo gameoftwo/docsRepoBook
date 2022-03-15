@@ -48,3 +48,4 @@
   * [Slicing strings](go-lang/strings/slicing-strings.md)
   * [Strings Packages](go-lang/strings/strings-packages.md)
   * [Maps in GO](go-lang/strings/maps-in-go.md)
+  * [Operations on files](go-lang/strings/operations-on-files.md)
