@@ -45,3 +45,4 @@
   * [Appending to Slices](go-lang/unit-6-go/appending-to-slices.md)
 * [Strings](go-lang/strings/README.md)
   * [Strings, Runes and Decode](go-lang/strings/strings-runes-and-decode.md)
+  * [Slicing strings](go-lang/strings/slicing-strings.md)
