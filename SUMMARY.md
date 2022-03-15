@@ -50,3 +50,4 @@
   * [Maps in GO](go-lang/strings/maps-in-go.md)
   * [Operations on files](go-lang/strings/operations-on-files.md)
   * [Writting Files](go-lang/strings/writting-files.md)
+  * [Second Writting Method](go-lang/strings/second-writting-method.md)
