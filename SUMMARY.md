@@ -46,3 +46,4 @@
 * [Strings](go-lang/strings/README.md)
   * [Strings, Runes and Decode](go-lang/strings/strings-runes-and-decode.md)
   * [Slicing strings](go-lang/strings/slicing-strings.md)
+  * [Strings Packages](go-lang/strings/strings-packages.md)
