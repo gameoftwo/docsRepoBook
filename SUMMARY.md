@@ -64,3 +64,4 @@
 ***
 
 * [Passing values and pointers to function](passing-values-and-pointers-to-function.md)
+* [Method and Interfaces](method-and-interfaces.md)
