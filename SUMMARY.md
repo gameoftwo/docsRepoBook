@@ -77,3 +77,4 @@
   * [Goroutines and Channels](method-and-interfaces/goroutines-and-channels.md)
   * [Unbufferd Channels](method-and-interfaces/unbufferd-channels.md)
   * [Buffered Channels](method-and-interfaces/buffered-channels.md)
+  * [Select Statement](method-and-interfaces/select-statement.md)
