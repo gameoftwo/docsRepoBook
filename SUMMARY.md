@@ -68,3 +68,5 @@
   * [Methods with a Pointer Receiver](method-and-interfaces/methods-with-a-pointer-receiver.md)
   * [Implementing Interfaces](method-and-interfaces/implementing-interfaces.md)
   * [Type Assertion](method-and-interfaces/type-assertion.md)
+  * [Empty Interface](method-and-interfaces/empty-interface.md)
+  * [Page 1](method-and-interfaces/page-1.md)
