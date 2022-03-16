@@ -64,5 +64,7 @@
 ***
 
 * [Passing values and pointers to function](passing-values-and-pointers-to-function.md)
-* [Method and Interfaces](method-and-interfaces.md)
-* [Methods with a Pointer Receiver](methods-with-a-pointer-receiver.md)
+* [Method and Interfaces](method-and-interfaces/README.md)
+  * [Methods with a Pointer Receiver](method-and-interfaces/methods-with-a-pointer-receiver.md)
+  * [Implementing Interfaces](method-and-interfaces/implementing-interfaces.md)
+  * [Type Assertion](method-and-interfaces/type-assertion.md)
