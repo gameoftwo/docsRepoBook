@@ -69,4 +69,5 @@
   * [Implementing Interfaces](method-and-interfaces/implementing-interfaces.md)
   * [Type Assertion](method-and-interfaces/type-assertion.md)
   * [Empty Interface](method-and-interfaces/empty-interface.md)
-  * [Page 1](method-and-interfaces/page-1.md)
+  * [Getting Information](method-and-interfaces/getting-information.md)
+  * [Goroutines and WaitGroups](method-and-interfaces/goroutines-and-waitgroups.md)
