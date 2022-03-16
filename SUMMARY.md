@@ -71,3 +71,4 @@
   * [Empty Interface](method-and-interfaces/empty-interface.md)
   * [Getting Information](method-and-interfaces/getting-information.md)
   * [Goroutines and WaitGroups](method-and-interfaces/goroutines-and-waitgroups.md)
+  * [Data Races](method-and-interfaces/data-races.md)
