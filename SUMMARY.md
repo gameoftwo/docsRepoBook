@@ -78,3 +78,4 @@
   * [Unbufferd Channels](method-and-interfaces/unbufferd-channels.md)
   * [Buffered Channels](method-and-interfaces/buffered-channels.md)
   * [Select Statement](method-and-interfaces/select-statement.md)
+* [Commands - Create and Publish a Module on GitHub](commands-create-and-publish-a-module-on-github.md)
