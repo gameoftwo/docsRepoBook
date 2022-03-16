@@ -74,3 +74,4 @@
   * [Data Races](method-and-interfaces/data-races.md)
   * [Mutexes](method-and-interfaces/mutexes.md)
   * [Intro to Channels](method-and-interfaces/intro-to-channels.md)
+  * [Goroutines and Channels](method-and-interfaces/goroutines-and-channels.md)
